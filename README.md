@@ -1,5 +1,5 @@
 # KTM Redesign Website
-
+Note: This is not the full version of the page and does not include complete details about the bikes. I can add more details, but this is just a demo version and not the final code. 🚀
 ## Overview
 This is a redesigned version of the KTM website built using modern web technologies, ensuring a sleek UI, smooth animations, and responsiveness across all devices.
 
